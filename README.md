@@ -51,14 +51,6 @@ CreditWise is a Machine Learning project that predicts loan approval outcomes ba
 
 ![Heatmap](images/heatmap.png)
 
-### Distribution Analysis
-
-![Distribution](images/distribution.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
 ## Key Learnings
 
 - Applied end-to-end Machine Learning workflow.
